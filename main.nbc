@@ -1,0 +1,8 @@
+/*
+  Sistema inicial para o projeto
+  constar a parte principal do programa
+*/
+
+task main{
+  TextOut(10,LCD_LINE1,"Hello World");
+}
